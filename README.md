@@ -9,7 +9,7 @@ Building a User Authentication System for a ToDo List Management system
 Clone the project
 
 ```bash
-  git clone https://github.com/JedSolo/user_authentication_django_nextjs.git
+  git clone https://github.com/JedSolo/ToDo-List.git
 ```
 
 ```bash
